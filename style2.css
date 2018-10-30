@@ -1,0 +1,9 @@
+.history {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+body {
+	background-image: url("tricolor.jpg");
+	
+}
