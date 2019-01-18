@@ -34,12 +34,9 @@ body{
 
 .opacity {
 	opacity: 0.9;
-	transition: 1s;
 }
 
-.opacity:hover {
-	transform: scale(1.01);
-}
+
 
 .box {
 	padding-top: 15px;
