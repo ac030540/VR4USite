@@ -27,7 +27,7 @@ body{
  }
 
 
-.container {
+.my-container {
     width: 90%;
     margin: 100px auto;
     display: flex;
