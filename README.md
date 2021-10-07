@@ -1,2 +1,2 @@
 # VR4USite
-A simple website for an organization named VR4U.
+A simple website for an organization VR4U.
